@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/7peas/!svn/ver/358/trunk/Elevator/src/elevatorSystem/algorithms
+END
+LeastTraveled.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/7peas/!svn/ver/352/trunk/Elevator/src/elevatorSystem/algorithms/LeastTraveled.java
+END
+BetterBalancedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7peas/!svn/ver/358/trunk/Elevator/src/elevatorSystem/algorithms/BetterBalancedService.java
+END
+RandomElevator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7peas/!svn/ver/231/trunk/Elevator/src/elevatorSystem/algorithms/RandomElevator.java
+END
+Algorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/7peas/!svn/ver/260/trunk/Elevator/src/elevatorSystem/algorithms/Algorithm.java
+END
+BalancedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7peas/!svn/ver/296/trunk/Elevator/src/elevatorSystem/algorithms/BalancedService.java
+END
+LeastBusy.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/7peas/!svn/ver/296/trunk/Elevator/src/elevatorSystem/algorithms/LeastBusy.java
+END
+newRoundRobin.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/7peas/!svn/ver/193/trunk/Elevator/src/elevatorSystem/algorithms/newRoundRobin.java
+END
+PassengerModE.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/7peas/!svn/ver/354/trunk/Elevator/src/elevatorSystem/algorithms/PassengerModE.java
+END
+ClosestElevator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7peas/!svn/ver/231/trunk/Elevator/src/elevatorSystem/algorithms/ClosestElevator.java
+END
